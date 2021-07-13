@@ -3,7 +3,7 @@ function logar(){
     var login = document.getElementById("email").value;
     var senha = document.getElementById("senha").value;
 
-        if(login=="dvitorio2@gmail.com" && senha=="dvc314900"){
+        if(login=="dvitorio2@gmail.com" && senha=="12345678"){
             alert("Login realizado com sucesso!");
             window.open("escolar_index.html");
             window.close("login.html");
